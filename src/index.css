@@ -1,0 +1,7 @@
+@import "./components/Sidebar.css";
+@import "./components/Navbar.css";
+
+* {
+    margin: 0;
+    padding: 0;
+}
