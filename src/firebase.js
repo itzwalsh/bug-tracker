@@ -4,6 +4,7 @@ import { getAuth } from "firebase/auth";
 
 // Initialize Firebase
 const firebaseConfig = {
+  //this is not sensitive information, dont even try
   apiKey: "AIzaSyAppxTgiWfdHvJvggsrnRY8O1gk7FKX3XA",
   authDomain: "bug-tracker-72316.firebaseapp.com",
   projectId: "bug-tracker-72316",
